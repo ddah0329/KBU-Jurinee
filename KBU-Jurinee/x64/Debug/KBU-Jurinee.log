@@ -1,0 +1,7 @@
+﻿  companyFunctions.c
+E:\컴프기 주식\KBU-Jurinee\companyFunctions.c(34,20): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+E:\컴프기 주식\KBU-Jurinee\companyFunctions.c(34,45): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+E:\컴프기 주식\KBU-Jurinee\companyFunctions.c(85,21): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+E:\컴프기 주식\KBU-Jurinee\companyFunctions.c(85,46): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+E:\컴프기 주식\KBU-Jurinee\companyFunctions.c(252,16): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xec'이(가) 있습니다.
+  KBU-Jurinee.vcxproj -> E:\컴프기 주식\KBU-Jurinee\x64\Debug\KBU-Jurinee.exe
